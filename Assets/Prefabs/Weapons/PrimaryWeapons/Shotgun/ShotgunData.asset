@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 38a1f6ac363cc054ab056acc2c9cf033, type: 3}
+  m_Name: ShotgunData
+  m_EditorClassIdentifier: 
+  damage: 5
+  projectileSpeed: 20
+  bulletPrefab: {fileID: 2688726885039636340, guid: 3a558c9f6431a204588822f677301d10, type: 3}
+  magSize: 2
+  reloadSpeed: 1.5
+  fireRate: 2
+  spread: 0.8
